@@ -60,11 +60,16 @@ I actively contribute to open source projects. Here are some of my proudest cont
 ### 📫 How to Reach Me
 
 <p align="center">
-  <a href="https://medium.com/@thesadson" target="_blank">
+  <a href="https://medium.com/@emircanagac" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://guns.lol/thesadson" target="_blank">
-    <img src="https://img.shields.io/badge/Socials-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Social Links"/>
+
+  <a href="https://www.linkedin.com/in/emircanagac" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:emircanagac[at]hotmail[dot]com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
