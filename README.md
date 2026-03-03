@@ -38,11 +38,6 @@ I am a DevOps Engineer with a strong passion for Kubernetes, Cloud-Native techno
 
 ---
 
-### 🌱 Currently Learning
-I'm actively expanding my skills in cloud platforms and currently focusing on **AWS**. My goal is to achieve the AWS Certified Solutions Architect - Associate certification.
-
----
-
 ### 🚀 My Open Source Contributions
 
 I actively contribute to open source projects. Here are some of my proudest contributions:
