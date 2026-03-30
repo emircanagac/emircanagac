@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80" alt="Wave"/>
-  <h1>👋 Hey, I'm Emircan</h1>
+  <h1>Hey, I'm Emircan</h1>
   <p><b>DevOps Engineer from Türkiye 🇹🇷</b></p>
   <p><i>Building scalable, cloud-native infrastructure. Knowledge should be free and accessible.</i></p>
 
