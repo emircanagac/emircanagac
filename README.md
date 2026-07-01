@@ -30,6 +30,7 @@
 ---
 
 ### 🚀 Open Source Highlights
+* **[Voxpery](https://github.com/emircanagac/voxpery):** Creator of an open-source, self-hostable community chat and voice platform (Rust, React, Tauri), engineered from scratch leveraging **AI-assisted development** for rapid full-stack architecture.
 * **[KEDA](https://github.com/kedacore/keda):** Authored the **Solr Scaler** ([PR #4355](https://github.com/kedacore/keda/pull/4355)) & fixed the Cassandra Scaler ([PR #4162](https://github.com/kedacore/keda/pull/4162)).
 * **[Pinpoint APM](https://github.com/pinpoint-apm/pinpoint-kubernetes):** Official Helm Chart maintainer.
 * **[LibreOffice](https://gerrit.libreoffice.org/q/owner:thesadson%2540gmail.com):** Contributed core C++ bug fixes and code improvements.
